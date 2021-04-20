@@ -1,0 +1,21 @@
+.jumbotron {
+    max-width: 650px;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.selecionado {
+    background-color: yellow !important;
+}
+
+.negrito {
+    font-weight: bold;
+}
+
+table td:nth-child(2) {
+    word-break: break-word;
+}
+
+hr {
+	border-color: #999;
+}
